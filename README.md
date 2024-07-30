@@ -1,6 +1,6 @@
 # JavaScript Function Parameters Lab
 
-## Learning Goals
+## Learning Goalss
 
 - Define a function that uses a parameter
 - Define a function that uses two parameters
